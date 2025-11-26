@@ -22,8 +22,3 @@ Avant d'exécuter le projet, assurez-vous d'avoir :
 - IntelliJ IDEA ou un autre IDE Java installé  
 
 ---
-
-## Installation et utilisation
-1. **Cloner le dépôt :**
-```bash
-git clone https://github.com/ton-utilisateur/nom-depot.git

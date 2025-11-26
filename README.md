@@ -15,14 +15,6 @@ Ce projet est idéal pour apprendre la programmation Java et la création d'inte
 
 ---
 
-## Aperçu de la calculatrice
-
-Voici deux captures d’écran du projet :
-
-![Interface principale](images/"C:\Users\chaym\Pictures\Screenshots\Capture d'écran 2025-11-26 233959.png")
-
-
----
 
 ## Prérequis
 Avant d'exécuter le projet, assurez-vous d'avoir :  
